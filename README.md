@@ -20,7 +20,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 >Разработан в качестве практического задания на курсе
 веб-программирование с нуля backend PHP skillfactory. <br>
 В качестве изучения очередной темы Базовая вёрстка
-HTML, CSS.
+HTML, CSS, JavaScript
 
 &quot;Образовательный проект.&quot;
 
