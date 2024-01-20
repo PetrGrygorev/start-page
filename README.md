@@ -32,4 +32,6 @@ HTML, CSS, JavaScript
 
 - Web-fonts (Roboto)
 
+- CSS
+
 - JavaScript
